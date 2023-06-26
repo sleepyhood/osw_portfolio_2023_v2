@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/osw_portfolio_2023_v2/static/css/main.46734d00.css",
-    "main.js": "/osw_portfolio_2023_v2/static/js/main.99681db3.js",
+    "main.css": "/osw_portfolio_2023_v2/static/css/main.4279edbf.css",
+    "main.js": "/osw_portfolio_2023_v2/static/js/main.2b6b4fa0.js",
     "static/js/787.6f295d51.chunk.js": "/osw_portfolio_2023_v2/static/js/787.6f295d51.chunk.js",
     "static/media/Q1_step3.gif": "/osw_portfolio_2023_v2/static/media/Q1_step3.90bee95b35628c2e9b37.gif",
     "static/media/movieApp.png": "/osw_portfolio_2023_v2/static/media/movieApp.db3d768424c4977650b7.png",
@@ -30,12 +30,12 @@
     "static/media/css3.svg": "/osw_portfolio_2023_v2/static/media/css3.a970faff57243830beb36b718dbf74fc.svg",
     "static/media/html-5.svg": "/osw_portfolio_2023_v2/static/media/html-5.bf6bb1c230f673b1a40c700677243b83.svg",
     "static/media/campus.svg": "/osw_portfolio_2023_v2/static/media/campus.5af2951f2e2c74f80b1d327e515bba94.svg",
-    "main.46734d00.css.map": "/osw_portfolio_2023_v2/static/css/main.46734d00.css.map",
-    "main.99681db3.js.map": "/osw_portfolio_2023_v2/static/js/main.99681db3.js.map",
+    "main.4279edbf.css.map": "/osw_portfolio_2023_v2/static/css/main.4279edbf.css.map",
+    "main.2b6b4fa0.js.map": "/osw_portfolio_2023_v2/static/js/main.2b6b4fa0.js.map",
     "787.6f295d51.chunk.js.map": "/osw_portfolio_2023_v2/static/js/787.6f295d51.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.46734d00.css",
-    "static/js/main.99681db3.js"
+    "static/css/main.4279edbf.css",
+    "static/js/main.2b6b4fa0.js"
   ]
 }
